@@ -7,3 +7,7 @@ mas abajo
 4. cuatro
 5. cinco
 
+Segunda prueba de git. registrando cambios
+6. seis
+7. siete
+8. ocho
